@@ -2,6 +2,8 @@
 
 ### Setup
 
+CREATE YOUR OWN `main.js` file and work within there.
+
 For each of the following tasks:
 
 1. Write the function.
